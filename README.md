@@ -1,5 +1,5 @@
 # Knowledge-based-AI-Inductive-Reasoning
-This program uses learning decision tree algorithm and First-Order Inductive Learner (FOIL) algorithm to perform inductive reasoning. 
+Algorithm code is in learning folder. This program uses learning decision tree algorithm and First-Order Inductive Learner (FOIL) algorithm to perform inductive reasoning. 
 
 ### Learning decision tree algorithm 
 #### Code is in learning/attribute_learner
