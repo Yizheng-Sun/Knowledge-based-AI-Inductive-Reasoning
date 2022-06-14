@@ -1,0 +1,6 @@
+pyswip
+pytest
+scipy
+click
+networkx
+tabulate
